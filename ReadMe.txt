@@ -4,7 +4,7 @@
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][foryou]`|![][foryou]
-![Image text](http://github.com/dlynine/katahiromz_pdfium/blob/master/img/QQ截图20190524174326.jpg)
+![img QQ截图20190524174326](http://github.com/dlynine/katahiromz_pdfium/blob/master/img/QQ截图20190524174326.jpg)
 Cross compiler. Reduce the building time.
 
 Usage:
