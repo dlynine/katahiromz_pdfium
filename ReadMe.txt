@@ -1,5 +1,5 @@
-Windows的PDFium封装类 by katahiromz.
-增加支持XP系统的PDFium调用DLL
+#Windows的PDFium封装类 by katahiromz.
+#增加支持XP系统的PDFium调用DLL
 |#|语法|效果|
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
