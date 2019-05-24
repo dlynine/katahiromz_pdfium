@@ -1,4 +1,5 @@
-This is katahiromz_pdfium; a PDFium wrapper for Windows by katahiromz.
+Windows的PDFium封装类 by katahiromz.
+增加支持XP系统的PDFium调用DLL
 
 Cross compiler. Reduce the building time.
 
