@@ -1,6 +1,6 @@
 Windows的PDFium封装类 by katahiromz.
 增加支持XP系统的PDFium调用DLL
-![image](http://github.com/dlynine/katahiromz_pdfium/blob/master/QQ截图20190524174326.jpg)
+![image](http://github.com/dlynine/katahiromz_pdfium/raw/master/QQ截图20190524174326.jpg)
 Cross compiler. Reduce the building time.
 
 Usage:
