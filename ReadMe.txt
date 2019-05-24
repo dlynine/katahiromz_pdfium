@@ -1,6 +1,9 @@
 Windows的PDFium封装类 by katahiromz.
 增加支持XP系统的PDFium调用DLL
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+|#|语法|效果|
+|---|---|----
+|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+|2|`![][foryou]`|![][foryou]
 ![Image text](http://github.com/dlynine/katahiromz_pdfium/blob/master/img/QQ截图20190524174326.jpg)
 Cross compiler. Reduce the building time.
 
